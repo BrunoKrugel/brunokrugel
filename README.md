@@ -9,6 +9,8 @@
 
 # About me
 
+I started my carrer in development in 2016 and after some years I realized that I had a lack of experience in dealing with customers and soft skills, then I decided it was time for new challenges and decided to work with customer support, after two years increasing my softskills, I returned to development in 2019 and I have been working with micro services since 2019.
+
 - 📫 How to reach me **brunokrugel@gmail.com**
 
 # Languages and Tools
