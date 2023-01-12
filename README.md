@@ -4,8 +4,7 @@
 
 # Social Media
 
-<img src="https://komarev.com/ghpvc/?username=brunokrugel&label=Profile%20views&color=0e75b6&style=flat" alt="brunokrugel" /> [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Krugel-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/brunokrugel)](https://www.linkedin.com/in/brunokrugel)   [![GitHub followers](https://img.shields.io/github/followers/brunokrugel?label=Follow&style=social)](https://github.com/ggsant/?tab=follow)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Krugel-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/brunokrugel)](https://www.linkedin.com/in/brunokrugel)
 
 # About me
 
@@ -13,14 +12,18 @@ Hi, my name is Bruno, but you can call me BK, I gratuated as a *Technician in El
 
 - 📫 How to reach me **brunokrugel@gmail.com**
 
+# Tech Stack
+
+<div align="center">
+  <img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><span>&nbsp;</span><span>&nbsp;</span>
+  <img align="center" alt="Go" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"><span>&nbsp;</span><span>&nbsp;</span>
+  <img align="center" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="GitHub Actions" height="30" width="30" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4">
+</div>
+
 # Statistics
 
-<details>
-<summary>Click for GitHub Stats</summary>
 <p align="center">
-  <p align="center"> <a href="https://github.com/brunokrugel"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunokrugel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> </p>
-<br>
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokrugel&layout=compact&theme=radical" alt="brunokrugel" /> </p>
+  <p align="center"> <a href="https://github.com/brunokrugel"> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brunokrugel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> </p>
 </p>
-</details>
 
