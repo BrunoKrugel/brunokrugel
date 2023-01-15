@@ -8,7 +8,7 @@
 
 # About me
 
-Hi, my name is Bruno, but you can call me BK, I gratuated as a *Technician in Electronic* in 2015, but started my career in 2016 as a *Full-stack Developer* in a ERP company, after some experience in the area, I realized that I had a lack of experience in dealing with customers and soft skills, then I decided it was time for new challenges and started working at SAP as a Customer Technical support, after two years increasing my softskills, I returned to development in 2019 and I have been working as a *Backend Developer* developing micro services since 2019.
+Hi, my name is Bruno, but you can call me BK, I gratuated as a *Technician in Electronic* in 2015, but started my career in 2016 as a *Full-stack Developer* in an ERP company, after some experience in the area, I realized that I had a lack of experience in dealing with customers needs and soft skills, so, I decided it was time for new challenges and started working at SAP as a Customer Technical support, after two years improving my soft skills, I returned to development in 2019 and I have been working as a *Backend Developer* developing micro services since 2019.
 
 - 📫 How to reach me **brunokrugel@gmail.com**
 
