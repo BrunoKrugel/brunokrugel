@@ -4,7 +4,7 @@
 # About me
 
 <p align="justify">
-Hi, my name is Bruno, but you can call me BK, I gratuated as a *Technician in Electronic* in 2015, but started my career in 2016 as a *Full-stack Developer* in an ERP company, after some experience in the area, I realized that I had a lack of experience in dealing with customers needs and soft skills, so, I decided it was time for new challenges and started working at SAP as a Customer Technical support, after two years improving my soft skills, I returned to development in 2019 and I have been working as a *Backend Developer* developing micro services since 2019.
+Hi, my name is Bruno, but you can call me BK, I gratuated as a Technician in Electronic in 2015, but started my career in 2016 as a Full-stack Developer in an ERP company, after some experience in the area, I realized that I had a lack of experience in dealing with customers needs and soft skills, so, I decided it was time for new challenges and started working at SAP as a Customer Technical support, after two years improving my soft skills, I returned to development in 2019 and I have been working as a Backend Developer developing micro services since 2019.
 </p>
   
 - 📫 How to reach me **brunokrugel@gmail.com**
@@ -22,5 +22,8 @@ Hi, my name is Bruno, but you can call me BK, I gratuated as a *Technician in El
 
 <p align="center">
   <p align="center"> <a href="https://github.com/brunokrugel"> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brunokrugel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> </p>
+    
+<p align="center"> <a href="https://github.com/brunokrugel"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokrugel&layout=compact&theme=tokyonight"/> </p>
+  
 </p>
 
