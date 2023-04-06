@@ -10,18 +10,13 @@ Hi, my name is Bruno, but you can call me BK, I gratuated as Electronic Technici
 # Tech Stack
 
 <div align="center">
-  <img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><span>&nbsp;</span><span>&nbsp;</span>
-  <img align="center" alt="Go" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"><span>&nbsp;</span><span>&nbsp;</span>
-  <img align="center" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="GitHub Actions" height="30" width="30" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4">
+  <p align="center"> <a href="https://github.com/brunokrugel"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokrugel&layout=compact&theme=tokyonight"/> </p>
 </div>
 
 # Statistics
 
 <p align="center">
   <p align="center"> <a href="https://github.com/brunokrugel"> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brunokrugel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> </p>
-    
-<p align="center"> <a href="https://github.com/brunokrugel"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokrugel&layout=compact&theme=tokyonight"/> </p>
-  
+  <p align="center"> <a href="https://github.com/brunokrugel">  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=BrunoKrugel&theme=tokyonight"/> </p>
 </p>
 
