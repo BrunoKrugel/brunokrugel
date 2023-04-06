@@ -17,6 +17,5 @@ Hi, my name is Bruno, but everyone call me BK, I gratuated as Electronic Technic
 
 <p align="center">
   <p align="center"> <a href="https://github.com/brunokrugel"> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brunokrugel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> </p>
-  <p align="center"> <a href="https://github.com/brunokrugel">  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=BrunoKrugel&theme=tokyonight"/> </p>
 </p>
 
