@@ -4,7 +4,11 @@
 # About me
 
 <p align="justify">
-Hi, my name is Bruno, but everyone call me BK, I gratuated as Electronic Technician in 2015, but started my career in 2016 as a Full-stack Developer in an ERP company and after some experience in the area, I realized that I had a lack of experience in understanding customers needs, so, I decided it was time for new challenges and started working at SAP as a Customer Technical support and after two years improving my soft skills, I returned to development in 2019 and I have been working as a Backend Developer working with micro services since 2019.
+Hi, I'm Bruno, commonly known as BK, a dedicated software developer with a diverse journey. My background as an Electronic Technician, coupled with my extensive experience, has shaped me into a versatile Full-stack Developer. Commencing in 2016, I embarked on this path within an ERP company, honing my skills and delving into the realm of comprehensive solutions.
+
+Recognizing the value of a holistic perspective, I started working at SAP, assuming the role of a *Customer Technical Support Specialist*. During my two-year tenure, I refined my soft skills and gained invaluable insights into understanding and addressing customer needs. This pivotal experience propelled me back into development in 2019.
+
+Presently, I thrive as a *Backend Developer*, primarily engaged with microservices. My proficiency in this domain, coupled with my enriched customer-centric approach, empowers me to craft efficient and effective solutions. 
 </p>
 
 # Tech Stack
