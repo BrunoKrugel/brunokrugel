@@ -11,7 +11,7 @@ Recognizing the value of a holistic perspective, I started working at SAP, assum
 
 Presently, I thrive as a *Backend Developer*, primarily engaged with microservices. My proficiency in this domain, coupled with my enriched customer-centric approach, empowers me to craft efficient and effective solutions.
 
-Feel free to check my [resume](https://github.com/BrunoKrugel/resume/blob/main/pdfresume_en.pdf).
+If you have any questions regarding my career, feel free to check my [resume](https://github.com/BrunoKrugel/resume/blob/main/pdfresume_en.pdf).
 
 </p>
 
