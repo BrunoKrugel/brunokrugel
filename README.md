@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BK</h1>
-<h3 align="center">An Electronic technician, that work as a software engineer with experience from Cobol through Go.</h3>
+<h3 align="center">An Electronic technician, who work as a software engineer with experience from Cobol through Go.</h3>
 
 # About me
 
