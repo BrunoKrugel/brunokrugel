@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm BK</h1>
-<h3 align="center">An Electronic technician, who work as a software engineer with experience from Cobol through Go.</h3>
+<h3 align="center">An Electronic technician, who works as a software engineer with experience from Cobol through Go.</h3>
 
 # About me
 
 <p align="justify">
 
-Hi, I'm Bruno, commonly known as BK, a dedicated software developer with a diverse journey. My background as an Electronic Technician, coupled with my extensive experience, has shaped me into a versatile Full-stack Developer. Commencing in 2016, I embarked on this path within an ERP company, honing my skills and delving into the realm of comprehensive solutions.
+Hi, I'm Bruno, commonly known as BK, a dedicated software developer with a diverse journey. My background as an Electronic Technician and extensive experience has shaped me into a versatile Full-stack Developer. Commencing in 2016, I embarked on this path within an ERP company, honing my skills and delving into the realm of comprehensive solutions.
 
 Recognizing the value of a holistic perspective, I started working at SAP, assuming the role of a *Customer Technical Support Specialist*. During my two-year tenure, I refined my soft skills and gained invaluable insights into understanding and addressing customer needs. This pivotal experience propelled me back into development in 2019.
 
-Presently, I thrive as a *Backend Developer*, primarily engaged with microservices. My proficiency in this domain, coupled with my enriched customer-centric approach, empowers me to craft efficient and effective solutions.
+Currently, I work as a *Backend Developer*, primarily with microservices. My proficiency in this domain, coupled with my enriched customer-centric approach, empowers me to craft efficient and effective solutions.
 
 If you have any questions regarding my career, feel free to check my [resume](https://github.com/BrunoKrugel/resume/blob/main/pdfresume_en.pdf).
 
