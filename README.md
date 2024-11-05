@@ -13,6 +13,8 @@ Currently, I work as a *Backend Developer*, primarily with microservices. My pro
 
 If you have any questions regarding my career, feel free to check my [resume](https://github.com/BrunoKrugel/resume/blob/main/pdfresume_en.pdf).
 
+Contact: brunokrugel@gmail.com
+
 </p>
 
 # Tech Stack
