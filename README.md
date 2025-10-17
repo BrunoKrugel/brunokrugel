@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BK</h1>
+<h1 align="center">Hi, I'm BK</h1>
 <h3 align="center">An Electronic technician, who works as a software engineer with experience from COBOL through Go.</h3>
 
 # About me
@@ -26,10 +26,3 @@ Contact: brunokrugel@gmail.com
 <div align="center">
   <p align="center"> <a href="https://github.com/brunokrugel"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokrugel&layout=compact&theme=tokyonight"/> </p>
 </div>
-
-# Statistics
-
-<p align="center">
-  <p align="center"> <a href="https://github.com/brunokrugel"> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brunokrugel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> </p>
-</p>
-
