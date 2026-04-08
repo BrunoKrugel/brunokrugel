@@ -20,9 +20,3 @@ If you have any questions regarding my career, feel free to check my [resume](ht
 Contact: brunokrugel@gmail.com
 
 </p>
-
-# Tech Stack
-
-<div align="center">
-  <p align="center"> <a href="https://github.com/brunokrugel"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokrugel&layout=compact&theme=tokyonight"/> </p>
-</div>
